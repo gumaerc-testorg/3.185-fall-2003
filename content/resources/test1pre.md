@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the guidelines for the test 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-185-transport-phenomena-in-materials-engineering-fall-2003/31f86cb04419639d5a4ea7a15f382ddb_test1pre.pdf
+file: /media/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/31f86cb04419639d5a4ea7a15f382ddb_test1pre.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: test1pre.pdf
 uid: 31f86cb0-4419-639d-5a4e-a7a15f382ddb

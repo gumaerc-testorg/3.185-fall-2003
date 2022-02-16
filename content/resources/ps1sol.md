@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file includes solutions for problem set 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-185-transport-phenomena-in-materials-engineering-fall-2003/a2568014d8d08e3e7eea1d52bd9a2c30_ps1sol.pdf
+file: /media/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/a2568014d8d08e3e7eea1d52bd9a2c30_ps1sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps1sol.pdf
 uid: a2568014-d8d0-8e3e-7eea-1d52bd9a2c30

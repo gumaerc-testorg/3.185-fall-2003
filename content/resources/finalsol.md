@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the solutions for the final exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-185-transport-phenomena-in-materials-engineering-fall-2003/2b915a7e2dacb4cb78c09fa00b2c50d6_finalsol.pdf
+file: /media/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/2b915a7e2dacb4cb78c09fa00b2c50d6_finalsol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: finalsol.pdf
 uid: 2b915a7e-2dac-b4cb-78c0-9fa00b2c50d6
