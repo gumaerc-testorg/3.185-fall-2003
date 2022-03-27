@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 2a41eef3-5abd-45c6-2eb8-e41468906197
 resourcetype: Document
 title: handout_abet.pdf
 uid: bb033575-5805-bd60-dc7b-23f92311516d

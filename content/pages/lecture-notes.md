@@ -7,7 +7,7 @@ title: Lecture Notes
 uid: 80c01035-3e65-3de9-5f51-2b3ec022b6b9
 ---
 
-You can find the complete set of lecture notes as single-file download, in both pdf ([PDF]({{< baseurl >}}/resources/lectures)) as well as LaTex ([TEX](/courses/materials-science-and-engineering/3-185-transport-phenomena-in-materials-engineering-fall-2003/lecture-notes/lectures.tex)) formats.
+You can find the complete set of lecture notes as single-file download, in both pdf ([PDF]({{< baseurl >}}/resources/lectures)) as well as LaTex ([TEX]({{< baseurl >}}/resources/lectures-1)) formats.
 
 1\. Introduction ([PDF]({{< baseurl >}}/resources/chap1))
 ---------------------------------------------------------

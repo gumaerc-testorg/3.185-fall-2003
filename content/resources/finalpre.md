@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 325535c9-4c4c-8cf5-6b71-24cb3744abdf
 resourcetype: Document
 title: finalpre.pdf
 uid: 92b77e54-e164-9002-058c-148b7f435b1f

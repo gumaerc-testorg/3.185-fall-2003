@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 75288589-f744-ac0e-6f71-3fc502c815a3
 resourcetype: Document
 title: handout_eqns.pdf
 uid: 1add7f5c-570b-fa28-20d6-7eafd36d72f3

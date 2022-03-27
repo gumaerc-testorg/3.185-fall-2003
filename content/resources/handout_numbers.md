@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 75288589-f744-ac0e-6f71-3fc502c815a3
 resourcetype: Document
 title: handout_numbers.pdf
 uid: 3bbd51f4-5948-da6a-6298-534e1c1cdf74
