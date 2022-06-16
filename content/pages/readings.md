@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 354e8643-aa59-efa0-7b47-5ffcd1181d20
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Welty, James, Charles E. Wicks, Robert E. Wilson, and Gregory L. Rorrer. _Fundamentals of Momentum, Heat, and Mass Transfer_. 4th ed. New York: John Wiley and Sons Inc., January 2000. ISBN: 9780471381495.

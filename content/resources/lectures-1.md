@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the complete set of lecture notes for course 3.185
   fall 2003.
-file: /media/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/cd610883fb54ada28ece057051b1b04e_lectures.tex
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/cd610883fb54ada28ece057051b1b04e_lectures.tex
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Other
 title: lectures.tex
 uid: cd610883-fb54-ada2-8ece-057051b1b04e
 ---
+This file contains the complete set of lecture notes for course 3.185 fall 2003.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes problems for lecture 3.
-file: /media/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/ba440af4bbc86076e012cbee8db8dba3_ps3.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/ba440af4bbc86076e012cbee8db8dba3_ps3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,10 @@ parent_uid: 1a66e2b3-f0ac-ec09-5565-77380dbd127e
 resourcetype: Document
 title: ps3.pdf
 uid: ba440af4-bbc8-6076-e012-cbee8db8dba3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This file includes problems for lecture 3.
+
