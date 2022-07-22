@@ -8,6 +8,7 @@ file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/6185
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This file includes the following:
 Coupled fluids, heat and mass transfer, Nusselt number, heat and mass transfer coefficients, natural convection, streamfunction and vorticity, Bernoulli, and semester wrapup.
-

@@ -6,6 +6,7 @@ file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/1800
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file includes 3 hours examination with one closed book portion and one open book portion.
-

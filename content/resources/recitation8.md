@@ -7,6 +7,7 @@ file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/d5ea
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 This file covers the following topics:
 Drag force, turbulence, and forced convection.
-
