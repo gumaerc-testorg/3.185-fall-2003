@@ -5,6 +5,7 @@ description: This file talks about introduction to Newtonian Fluids, simple Newt
   Number, Rheology, Navier-Stokes equations, Navier-Stokes Equations, Drag force,
   Drag force on a sphere, boundary layers Part I,II, and Turbulence.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/8027e02c18951dca6d22e8a0254401ec_chap4.pdf
+file_size: 396077
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

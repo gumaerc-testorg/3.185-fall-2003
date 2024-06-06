@@ -2,6 +2,7 @@
 content_type: resource
 description: This file includes problems for drag force, advanced heat, and mass transfer.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/5cbb06e5b17e6c47d4a986b20585de53_ps8.pdf
+file_size: 82323
 file_type: application/pdf
 learning_resource_types:
 - Assignments

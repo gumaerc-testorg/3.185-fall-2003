@@ -4,6 +4,7 @@ description: 'This file covers the following topics:
 
   Fourier series solution, and Q&A (steady state and transient state diffusion).'
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/d9abff527d0533d61bfc5a2987c531ce_recitation3.pdf
+file_size: 46557
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the solutions for the final exam.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/2b915a7e2dacb4cb78c09fa00b2c50d6_finalsol.pdf
+file_size: 177173
 file_type: application/pdf
 learning_resource_types:
 - Exams
