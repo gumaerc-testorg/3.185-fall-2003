@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains methodology for deriving the equations which gives
   solutions to diffusion problems.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/feacb5a9ec6be9ae26d3f418d411cfed_handout_diff.pdf
+file_size: 98429
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

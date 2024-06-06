@@ -5,6 +5,7 @@ description: 'This file contains the following topics:
   Two approaches to solve a fluid dynamic problem (momentum balance, Navier-Stokes?
   equation).'
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/c963b99ce9ab04bb70ff750a8e2b7081_recitation7.pdf
+file_size: 136136
 file_type: application/pdf
 learning_resource_types:
 - Recitations

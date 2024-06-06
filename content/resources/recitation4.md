@@ -4,6 +4,7 @@ description: 'This file covers the following topics:
 
   Dimensional analysis, problem set #1 & #3.'
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/cd9439a7a92e73bc7efc1dbbd67fabeb_recitation4.pdf
+file_size: 111367
 file_type: application/pdf
 learning_resource_types:
 - Recitations

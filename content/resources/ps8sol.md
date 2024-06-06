@@ -2,6 +2,7 @@
 content_type: resource
 description: This file includes solutions for problem set 8.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/1cebf8c4575dd3fde45c2865f0df0233_ps8sol.pdf
+file_size: 150163
 file_type: application/pdf
 learning_resource_types:
 - Assignments
