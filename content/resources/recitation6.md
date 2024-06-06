@@ -4,6 +4,7 @@ description: 'This file contains the following topics:
 
   Mass balance in motion, and substantial derivative and it?s meaning.'
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/df86c50bb487ddb37c48cee5506d474a_recitation6.pdf
+file_size: 269040
 file_type: application/pdf
 learning_resource_types:
 - Recitations

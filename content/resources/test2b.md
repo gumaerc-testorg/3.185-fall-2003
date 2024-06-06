@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains problems of advanced heat transfer and fluid dynamics.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/b7a6d0fe88350604f8545c6688a4042c_test2b.pdf
+file_size: 118581
 file_type: application/pdf
 learning_resource_types:
 - Exams

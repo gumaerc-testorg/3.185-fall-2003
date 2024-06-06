@@ -6,6 +6,7 @@ description: 'This file includes the following topics:
   of vector field, curl of a vector field, ordinary differential equation, error function,
   and substantial derivative of scalar field.'
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/09a05527a76d887b2cd2c7a2a147a8f7_recitation1.pdf
+file_size: 594089
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the guidelines for the test 2.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/7f7ec2c4ba2f6450695d942dbe3d63d9_test2pre.pdf
+file_size: 87365
 file_type: application/pdf
 learning_resource_types:
 - Exams
