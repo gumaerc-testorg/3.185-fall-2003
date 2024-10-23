@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes problems for lecture 2.
-file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/0cdc119fb74c8f2592b152b75e0ac7f1_ps2.pdf
+file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/0cdc119fb74c8f2592b152b75e0ac7f1_ps2.pdf
 file_size: 94581
 file_type: application/pdf
 learning_resource_types:

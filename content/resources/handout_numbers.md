@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains different names of the mass transfer dimensionless
   numbers.
-file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/3bbd51f45948da6a6298534e1c1cdf74_handout_numbers.pdf
+file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/3bbd51f45948da6a6298534e1c1cdf74_handout_numbers.pdf
 file_size: 64060
 file_type: application/pdf
 learning_resource_types: []
