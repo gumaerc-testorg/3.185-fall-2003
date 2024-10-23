@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: excel sheet
-file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/4bc44fea72d93e8b87a3fde649e25e44_ps5.xls
+file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/4bc44fea72d93e8b87a3fde649e25e44_ps5.xls
 file_size: 56832
 file_type: application/msword
 learning_resource_types:

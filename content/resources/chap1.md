@@ -4,7 +4,7 @@ description: 'This lecture includes the following:
 
   Intro to the general transport methodology, necessities for all classes of materials,
   why 3.185 is important, mechanics ,required math, and previous feedback.'
-file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/b79ab3a9e56672f4f9e344305ff5998b_chap1.pdf
+file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/b79ab3a9e56672f4f9e344305ff5998b_chap1.pdf
 file_size: 148927
 file_type: application/pdf
 learning_resource_types:
