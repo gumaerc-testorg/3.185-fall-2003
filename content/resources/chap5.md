@@ -4,7 +4,7 @@ description: 'This file includes the following:
 
   Coupled fluids, heat and mass transfer, Nusselt number, heat and mass transfer coefficients,
   natural convection, streamfunction and vorticity, Bernoulli, and semester wrapup.'
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/6185b0ff143062ed97aea16a782c8603_chap5.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/6185b0ff143062ed97aea16a782c8603_chap5.pdf
 file_size: 267700
 file_type: application/pdf
 learning_resource_types:

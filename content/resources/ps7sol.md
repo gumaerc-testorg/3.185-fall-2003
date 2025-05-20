@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes solutions for problem set 7.
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/8f35943847c2a453c940295231adbf29_ps7sol.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/8f35943847c2a453c940295231adbf29_ps7sol.pdf
 file_size: 156949
 file_type: application/pdf
 learning_resource_types:

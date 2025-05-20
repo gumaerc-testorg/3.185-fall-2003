@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file covers the following topics:
 
   Drag force, turbulence, and forced convection.'
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/d5eacbba06814a0fe08639e3396f1e16_recitation8.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/d5eacbba06814a0fe08639e3396f1e16_recitation8.pdf
 file_size: 129230
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains problems on diffusion and heat conduction.
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/909a7cf8e314055118533fe810c121b7_test1b.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/909a7cf8e314055118533fe810c121b7_test1b.pdf
 file_size: 106931
 file_type: application/pdf
 learning_resource_types:
