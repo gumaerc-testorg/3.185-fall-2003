@@ -5,7 +5,7 @@ description: 'This file includes the complete set of lecture notes which include
 
   Introduction, diffusion, heat conduction, fluid dynamics, and coupled fluids with
   heat and mass transfer.'
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/6e459228e4e97c9c29e50c481b262c5c_lectures.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/6e459228e4e97c9c29e50c481b262c5c_lectures.pdf
 file_size: 958128
 file_type: application/pdf
 learning_resource_types:

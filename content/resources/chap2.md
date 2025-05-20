@@ -5,7 +5,7 @@ description: 'This file includes the following:
   1-D Cartesian and Cylindrical Steady-State, Steady-State with homogeneous chemical
   reaction, Unsteady-State diffusion, 9/11 remembered, ABET, wrapup unsteady, boundary
   conditions, boundary conditions, layer growth, layer growth, and dimensional analysis.'
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/a556573bb7fc3f3dd159f62cbd040359_chap2.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/a556573bb7fc3f3dd159f62cbd040359_chap2.pdf
 file_size: 350589
 file_type: application/pdf
 learning_resource_types:

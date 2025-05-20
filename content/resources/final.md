@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes 3 hours examination with one closed book portion and
   one open book portion.
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/18002b4213a5ab5f882aa7e153fe1752_final.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/18002b4213a5ab5f882aa7e153fe1752_final.pdf
 file_size: 136983
 file_type: application/pdf
 learning_resource_types:

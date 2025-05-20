@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file covers the following topics:
 
   Problem set 4, and casting 101.'
-file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/a8d5a9c868da00b8f20d60c602a0d2dd_recitation5.pdf
+file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/a8d5a9c868da00b8f20d60c602a0d2dd_recitation5.pdf
 file_size: 32250
 file_type: application/pdf
 learning_resource_types:
