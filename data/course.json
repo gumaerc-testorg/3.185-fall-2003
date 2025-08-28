@@ -53,12 +53,12 @@
     "website": "3-185-transport-phenomena-in-materials-engineering-fall-2003"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Problem Sets with Solutions",
     "Exams with Solutions",
     "Lecture Notes"
   ],
   "site_uid": "e4f0db47-4fa4-4eac-a233-ca8b008d5458",
   "site_short_id": "3.185-fall-2003",
+  "site_url_path": "courses/3-185-transport-phenomena-in-materials-engineering-fall-2003",
   "title": "Course Metadata"
 }

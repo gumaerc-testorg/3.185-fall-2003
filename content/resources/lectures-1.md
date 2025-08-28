@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the complete set of lecture notes for course 3.185
   fall 2003.
-file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/cd610883fb54ada28ece057051b1b04e_lectures.tex
+file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/cd610883fb54ada28ece057051b1b04e_lectures.tex
 file_size: 183300
 file_type: text/plain
 learning_resource_types:

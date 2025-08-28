@@ -4,7 +4,7 @@ description: 'This file covers the following topics:
 
   Subject objectives and outcomes, subject strategies, subject assessment methods,
   correlation matrix, and reflective memorandum.'
-file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/bb0335755805bd60dc7b23f92311516d_handout_abet.pdf
+file: /ol-ocw-studio-app/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/bb0335755805bd60dc7b23f92311516d_handout_abet.pdf
 file_size: 114598
 file_type: application/pdf
 learning_resource_types: []
